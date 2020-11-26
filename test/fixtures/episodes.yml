@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  image: MyString
+  name: MyString
+  kanji_name: MyString
+  episode_num: 1
+
+two:
+  image: MyString
+  name: MyString
+  kanji_name: MyString
+  episode_num: 1
